@@ -11,3 +11,5 @@ The model.sav file contains the trained SVM model. The training is done on 50% o
 Now, for testing, we read the model.sav file, and keep the test size as 1%.
 
 As output, the model generates a grayscale blurred image, and gives it's prediction whether it's a cat or a dog, along with the accuracy.
+
+It can be seen that the code is commented at various points as it has either been used for setting the file paths, or training the model.
